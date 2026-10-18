@@ -6,12 +6,21 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Sun, 18 Oct 2026 18:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:47:08 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.28 — La función pública local y su organización</title>
+      <description>Repaso del tema 28 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t28-20261018-1847.mp3" length="8420968" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t28-20261018-1847.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 18:47:02 +0000</pubDate>
+      <itunes:duration>0:17:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.18 — Los recursos administrativos: concepto y clases</title>
       <description>Repaso del tema 18 (Vigo, Administrativo de Urbanismo).</description>
