@@ -6,12 +6,21 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Sun, 18 Oct 2026 18:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 18:25:12 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.10 — La Administración pública en el ordenamiento español. Clases de Administraciones públicas</title>
+      <description>Repaso del tema 10 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t10-20261018-1825.mp3" length="11017958" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t10-20261018-1825.mp3</guid>
+      <pubDate>Sun, 18 Oct 2026 18:25:04 +0000</pubDate>
+      <itunes:duration>0:22:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.09 — La Unión Europea. Instituciones: composición, funcionamiento y competencias</title>
       <description>Repaso del tema 9 (Vigo, Administrativo de Urbanismo).</description>

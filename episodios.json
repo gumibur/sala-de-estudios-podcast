@@ -18,5 +18,16 @@
   "segundos": 1373,
   "publicadoEn": "2026-10-18T18:04:16+00:00",
   "origen": "Tema_09__-_Instituciones_de_la_Unión_Europea.m4a"
+ },
+ {
+  "temaId": "t10",
+  "titulo": "T.10 — La Administración pública en el ordenamiento español. Clases de Administraciones públicas",
+  "descripcion": "Repaso del tema 10 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t10-20261018-1825.mp3",
+  "bytes": 11017958,
+  "segundos": 1377,
+  "publicadoEn": "2026-10-18T18:25:04+00:00",
+  "origen": "La_arquitectura_legal_de_la_Administración_española.m4a",
+  "bytesOrigen": 44323635
  }
 ]
