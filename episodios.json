@@ -1,0 +1,12 @@
+[
+ {
+  "temaId": "bienvenida",
+  "titulo": "Bienvenida a tu podcast de Sala de Estudios",
+  "descripcion": "Presentación del podcast: cómo llegan aquí los audios de repaso de cada tema.",
+  "archivo": "episodios/bienvenida-20261018-1755.mp3",
+  "bytes": 140477,
+  "segundos": 17,
+  "publicadoEn": "2026-10-18T17:55:14+00:00",
+  "origen": "bienvenida.aiff"
+ }
+]
