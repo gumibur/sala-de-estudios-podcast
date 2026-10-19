@@ -6,12 +6,21 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:34:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:35:16 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.36 — Haciendas locales. Clasificación de los ingresos. Ordenanzas fiscales</title>
+      <description>Repaso del tema 36 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t36-20261019-1634.mp3" length="12449677" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t36-20261019-1634.mp3</guid>
+      <pubDate>Mon, 19 Oct 2026 16:34:58 +0000</pubDate>
+      <itunes:duration>0:25:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.35 — Los presupuestos locales. Contabilidad y cuentas</title>
       <description>Repaso del tema 35 (Vigo, Administrativo de Urbanismo).</description>
