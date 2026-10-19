@@ -128,5 +128,16 @@
   "publicadoEn": "2026-10-18T18:49:14+00:00",
   "origen": "T31 Bienes_de_las_entidades_locales.m4a",
   "bytesOrigen": 38051536
+ },
+ {
+  "temaId": "t32",
+  "titulo": "T.32 — Formas de actividad de las entidades locales. Procedimiento de licencias",
+  "descripcion": "Repaso del tema 32 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t32-20261019-1615.mp3",
+  "bytes": 9167234,
+  "segundos": 1146,
+  "publicadoEn": "2026-10-19T16:15:32+00:00",
+  "origen": "T32 Actividad y Licencias Locales.m4a",
+  "bytesOrigen": 36877475
  }
 ]
