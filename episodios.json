@@ -128,27 +128,5 @@
   "publicadoEn": "2026-10-18T18:49:14+00:00",
   "origen": "T31 Bienes_de_las_entidades_locales.m4a",
   "bytesOrigen": 38051536
- },
- {
-  "temaId": "t32",
-  "titulo": "T.32 — Formas de actividad de las entidades locales. Procedimiento de licencias",
-  "descripcion": "Repaso del tema 32 (Vigo, Administrativo de Urbanismo).",
-  "archivo": "episodios/t32-20261019-1615.mp3",
-  "bytes": 9167234,
-  "segundos": 1146,
-  "publicadoEn": "2026-10-19T16:15:32+00:00",
-  "origen": "T32 Actividad y Licencias Locales.m4a",
-  "bytesOrigen": 36877475
- },
- {
-  "temaId": "t33",
-  "titulo": "T.33 — El servicio público en la esfera local. Consideración especial de la concesión",
-  "descripcion": "Repaso del tema 33 (Vigo, Administrativo de Urbanismo).",
-  "archivo": "episodios/t33-20261019-1615.mp3",
-  "bytes": 8723362,
-  "segundos": 1090,
-  "publicadoEn": "2026-10-19T16:15:45+00:00",
-  "origen": "T33 El_servicio_público_en_la_esfera_local.m4a",
-  "bytesOrigen": 35092220
  }
 ]
