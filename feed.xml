@@ -6,12 +6,21 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Thu, 22 Oct 2026 19:49:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:06:13 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.19 — Concepto y clases de contratos administrativos. Selección del contratista</title>
+      <description>Repaso del tema 19 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t19-20261023-1306.mp3" length="8128397" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t19-20261023-1306.mp3</guid>
+      <pubDate>Fri, 23 Oct 2026 13:06:00 +0000</pubDate>
+      <itunes:duration>0:16:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.39 — La disciplina urbanística. Intervención de la edificación y uso del suelo</title>
       <description>Repaso del tema 39 (Vigo, Administrativo de Urbanismo).</description>
