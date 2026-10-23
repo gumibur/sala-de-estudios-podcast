@@ -238,5 +238,16 @@
   "publicadoEn": "2026-10-23T13:06:52+00:00",
   "origen": "T_1_-_Constitución_Española_de_1978__Título_Preliminar.m4a",
   "bytesOrigen": 44990337
+ },
+ {
+  "temaId": "t02",
+  "titulo": "T.02 — Derechos fundamentales y libertades públicas. Garantías",
+  "descripcion": "Repaso del tema 2 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t02-20261023-1307.mp3",
+  "bytes": 7826839,
+  "segundos": 978,
+  "publicadoEn": "2026-10-23T13:07:19+00:00",
+  "origen": "T_2_-_Derechos_fundamentales_y_sus_garantías_constitucionales.m4a",
+  "bytesOrigen": 31485620
  }
 ]
