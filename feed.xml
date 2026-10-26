@@ -6,12 +6,21 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:54:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:55:00 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.14 — El acto administrativo. Concepto. Elementos</title>
+      <description>Repaso del tema 14 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t14-20261026-0754.mp3" length="7784416" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t14-20261026-0754.mp3</guid>
+      <pubDate>Mon, 26 Oct 2026 07:54:48 +0000</pubDate>
+      <itunes:duration>0:16:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.11 — La Xunta de Galicia y su presidente. El Parlamento de Galicia</title>
       <description>Repaso del tema 11 (Vigo, Administrativo de Urbanismo).</description>
