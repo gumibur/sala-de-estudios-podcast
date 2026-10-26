@@ -414,5 +414,16 @@
   "publicadoEn": "2026-10-26T08:14:25+00:00",
   "origen": "T. 12 Administración Pública Autonómica.m4a",
   "bytesOrigen": 31523088
+ },
+ {
+  "temaId": "t34",
+  "titulo": "T.34 — Funcionamiento de los órganos colegiados locales. Convocatoria, votaciones, actas",
+  "descripcion": "Repaso del tema 34 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t34-20261026-0819.mp3",
+  "bytes": 7486411,
+  "segundos": 936,
+  "publicadoEn": "2026-10-26T08:19:05+00:00",
+  "origen": "T. 34 Órganos Colegiados Locales.m4a",
+  "bytesOrigen": 30115834
  }
 ]
