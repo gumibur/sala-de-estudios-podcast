@@ -6,12 +6,22 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Mon, 26 Oct 2026 08:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:42:18 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.39 · Profundización — La disciplina urbanística. Intervención de la edificación y uso del suelo</title>
+      <description>Profundización del tema 39 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t39-v2-20261111-2141.mp3" length="12497533" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t39-v2-20261111-2141.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 21:41:59 +0000</pubDate>
+      <itunes:duration>0:26:02</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.40 — La igualdad de género. Tutela contra la discriminación. Políticas públicas para la igualdad</title>
       <description>Repaso del tema 40 (Vigo, Administrativo de Urbanismo).</description>
@@ -19,6 +29,7 @@
       <guid isPermaLink="false">episodios/t40-20261026-0836.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 08:36:41 +0000</pubDate>
       <itunes:duration>0:25:39</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -28,6 +39,7 @@
       <guid isPermaLink="false">episodios/t34-20261026-0819.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 08:19:05 +0000</pubDate>
       <itunes:duration>0:15:36</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -37,6 +49,7 @@
       <guid isPermaLink="false">episodios/t12-20261026-0814.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 08:14:25 +0000</pubDate>
       <itunes:duration>0:16:19</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -46,6 +59,7 @@
       <guid isPermaLink="false">episodios/t15-20261026-0759.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 07:59:13 +0000</pubDate>
       <itunes:duration>0:25:57</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -55,6 +69,7 @@
       <guid isPermaLink="false">episodios/t14-20261026-0754.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 07:54:48 +0000</pubDate>
       <itunes:duration>0:16:13</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -64,6 +79,7 @@
       <guid isPermaLink="false">episodios/t11-20261026-0754.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 07:54:12 +0000</pubDate>
       <itunes:duration>0:29:41</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -73,6 +89,7 @@
       <guid isPermaLink="false">episodios/t27-20261026-0750.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 07:50:46 +0000</pubDate>
       <itunes:duration>0:24:58</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -82,6 +99,7 @@
       <guid isPermaLink="false">episodios/t26-20261026-0750.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 07:50:19 +0000</pubDate>
       <itunes:duration>0:29:57</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -91,6 +109,7 @@
       <guid isPermaLink="false">episodios/t25-20261026-0747.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 07:47:12 +0000</pubDate>
       <itunes:duration>0:18:53</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -100,6 +119,7 @@
       <guid isPermaLink="false">episodios/t24-20261026-0746.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 07:46:45 +0000</pubDate>
       <itunes:duration>0:18:24</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -109,6 +129,7 @@
       <guid isPermaLink="false">episodios/t23-20261026-0744.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 07:44:34 +0000</pubDate>
       <itunes:duration>0:17:00</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -118,6 +139,7 @@
       <guid isPermaLink="false">episodios/t22-20261026-0741.mp3</guid>
       <pubDate>Mon, 26 Oct 2026 07:41:34 +0000</pubDate>
       <itunes:duration>0:31:52</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -127,6 +149,7 @@
       <guid isPermaLink="false">episodios/t07-20261025-2009.mp3</guid>
       <pubDate>Sun, 25 Oct 2026 20:09:54 +0000</pubDate>
       <itunes:duration>0:26:24</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -136,6 +159,7 @@
       <guid isPermaLink="false">episodios/t06-20261025-2009.mp3</guid>
       <pubDate>Sun, 25 Oct 2026 20:09:06 +0000</pubDate>
       <itunes:duration>0:25:17</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -145,6 +169,7 @@
       <guid isPermaLink="false">episodios/t05-20261025-2008.mp3</guid>
       <pubDate>Sun, 25 Oct 2026 20:08:33 +0000</pubDate>
       <itunes:duration>0:20:38</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -154,6 +179,7 @@
       <guid isPermaLink="false">episodios/t04-20261025-2007.mp3</guid>
       <pubDate>Sun, 25 Oct 2026 20:07:55 +0000</pubDate>
       <itunes:duration>0:24:31</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -163,6 +189,7 @@
       <guid isPermaLink="false">episodios/t03-20261025-2007.mp3</guid>
       <pubDate>Sun, 25 Oct 2026 20:07:03 +0000</pubDate>
       <itunes:duration>0:25:04</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -172,6 +199,7 @@
       <guid isPermaLink="false">episodios/t02-20261023-1307.mp3</guid>
       <pubDate>Fri, 23 Oct 2026 13:07:19 +0000</pubDate>
       <itunes:duration>0:16:18</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -181,6 +209,7 @@
       <guid isPermaLink="false">episodios/t01-20261023-1306.mp3</guid>
       <pubDate>Fri, 23 Oct 2026 13:06:52 +0000</pubDate>
       <itunes:duration>0:23:18</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -190,6 +219,7 @@
       <guid isPermaLink="false">episodios/t20-20261023-1306.mp3</guid>
       <pubDate>Fri, 23 Oct 2026 13:06:22 +0000</pubDate>
       <itunes:duration>0:27:38</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -199,6 +229,7 @@
       <guid isPermaLink="false">episodios/t19-20261023-1306.mp3</guid>
       <pubDate>Fri, 23 Oct 2026 13:06:00 +0000</pubDate>
       <itunes:duration>0:16:56</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -208,6 +239,7 @@
       <guid isPermaLink="false">episodios/t39-20261022-1949.mp3</guid>
       <pubDate>Thu, 22 Oct 2026 19:49:02 +0000</pubDate>
       <itunes:duration>0:22:02</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -217,6 +249,7 @@
       <guid isPermaLink="false">episodios/t38-20261022-1948.mp3</guid>
       <pubDate>Thu, 22 Oct 2026 19:48:24 +0000</pubDate>
       <itunes:duration>0:21:58</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -226,6 +259,7 @@
       <guid isPermaLink="false">episodios/t37-20261022-1947.mp3</guid>
       <pubDate>Thu, 22 Oct 2026 19:47:09 +0000</pubDate>
       <itunes:duration>0:23:06</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -235,6 +269,7 @@
       <guid isPermaLink="false">episodios/t33-20261019-1635.mp3</guid>
       <pubDate>Mon, 19 Oct 2026 16:35:59 +0000</pubDate>
       <itunes:duration>0:18:10</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -244,6 +279,7 @@
       <guid isPermaLink="false">episodios/t32-20261019-1635.mp3</guid>
       <pubDate>Mon, 19 Oct 2026 16:35:34 +0000</pubDate>
       <itunes:duration>0:19:06</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -253,6 +289,7 @@
       <guid isPermaLink="false">episodios/t36-20261019-1634.mp3</guid>
       <pubDate>Mon, 19 Oct 2026 16:34:58 +0000</pubDate>
       <itunes:duration>0:25:56</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -262,6 +299,7 @@
       <guid isPermaLink="false">episodios/t35-20261019-1634.mp3</guid>
       <pubDate>Mon, 19 Oct 2026 16:34:19 +0000</pubDate>
       <itunes:duration>0:34:20</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -271,6 +309,7 @@
       <guid isPermaLink="false">episodios/t31-20261018-1849.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:49:14 +0000</pubDate>
       <itunes:duration>0:19:42</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -280,6 +319,7 @@
       <guid isPermaLink="false">episodios/t30-20261018-1847.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:47:24 +0000</pubDate>
       <itunes:duration>0:19:26</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -289,6 +329,7 @@
       <guid isPermaLink="false">episodios/t29-20261018-1847.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:47:13 +0000</pubDate>
       <itunes:duration>0:18:13</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -298,6 +339,7 @@
       <guid isPermaLink="false">episodios/t28-20261018-1847.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:47:02 +0000</pubDate>
       <itunes:duration>0:17:33</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -307,6 +349,7 @@
       <guid isPermaLink="false">episodios/t18-20261018-1846.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:46:50 +0000</pubDate>
       <itunes:duration>0:19:58</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -316,6 +359,7 @@
       <guid isPermaLink="false">episodios/t21-20261018-1840.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:40:39 +0000</pubDate>
       <itunes:duration>0:23:01</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -325,6 +369,7 @@
       <guid isPermaLink="false">episodios/t17-20261018-1840.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:40:24 +0000</pubDate>
       <itunes:duration>0:26:27</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -334,6 +379,7 @@
       <guid isPermaLink="false">episodios/t16-20261018-1840.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:40:07 +0000</pubDate>
       <itunes:duration>0:30:59</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -343,6 +389,7 @@
       <guid isPermaLink="false">episodios/t13-20261018-1839.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:39:53 +0000</pubDate>
       <itunes:duration>0:23:12</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -352,6 +399,7 @@
       <guid isPermaLink="false">episodios/t10-20261018-1825.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:25:04 +0000</pubDate>
       <itunes:duration>0:22:57</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -361,6 +409,7 @@
       <guid isPermaLink="false">episodios/t09-20261018-1804.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:04:16 +0000</pubDate>
       <itunes:duration>0:22:53</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
@@ -370,6 +419,7 @@
       <guid isPermaLink="false">episodios/t08-20261018-1804.mp3</guid>
       <pubDate>Sun, 18 Oct 2026 18:04:01 +0000</pubDate>
       <itunes:duration>0:26:40</itunes:duration>
+      <itunes:season>1</itunes:season>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
