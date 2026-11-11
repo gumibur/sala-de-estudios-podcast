@@ -6,12 +6,22 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Wed, 11 Nov 2026 21:42:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:42:50 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.37 · Profundización — Legislación sobre régimen del suelo y ordenación urbana. Competencia urbanística municipal</title>
+      <description>Profundización del tema 37 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t37-v2-20261111-2142.mp3" length="6146852" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t37-v2-20261111-2142.mp3</guid>
+      <pubDate>Wed, 11 Nov 2026 21:42:44 +0000</pubDate>
+      <itunes:duration>0:12:48</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.38 · Profundización — Clases de instrumentos de ordenación urbanística. Plan general y planeamiento de desarrollo</title>
       <description>Profundización del tema 38 (Vigo, Administrativo de Urbanismo).</description>
