@@ -520,5 +520,17 @@
   "publicadoEn": "2026-11-12T19:23:26+00:00",
   "origen": "Tema_17_P2_Invalidez_y_revisión.m4a",
   "bytesOrigen": 48590102
+ },
+ {
+  "temaId": "t18",
+  "vuelta": 2,
+  "titulo": "T.18 · Profundización — Los recursos administrativos: concepto y clases",
+  "descripcion": "Profundización del tema 18 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t18-v2-20261112-1924.mp3",
+  "bytes": 9986434,
+  "segundos": 1248,
+  "publicadoEn": "2026-11-12T19:24:02+00:00",
+  "origen": "Tema_18_P2_Los_recuros_administrativos.m4a",
+  "bytesOrigen": 40173191
  }
 ]
