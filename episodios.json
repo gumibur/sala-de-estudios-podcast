@@ -496,5 +496,17 @@
   "publicadoEn": "2026-11-12T10:41:10+00:00",
   "origen": "Tema_15_P2_La_admistracion_electrónica.m4a",
   "bytesOrigen": 33289667
+ },
+ {
+  "temaId": "t16",
+  "vuelta": 2,
+  "titulo": "T.16 · Profundización — Fases del procedimiento administrativo general. El silencio administrativo",
+  "descripcion": "Profundización del tema 16 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t16-v2-20261112-1041.mp3",
+  "bytes": 10193115,
+  "segundos": 1274,
+  "publicadoEn": "2026-11-12T10:41:36+00:00",
+  "origen": "Tema_16_P2_Procedimiento_administrativo_común_y_silencio.m4a",
+  "bytesOrigen": 41004877
  }
 ]
