@@ -556,5 +556,17 @@
   "publicadoEn": "2026-11-12T20:48:03+00:00",
   "origen": "Tema_20_P2_Las_formas_de_la_actividad_administrativa (1).m4a",
   "bytesOrigen": 46069413
+ },
+ {
+  "temaId": "t21",
+  "vuelta": 2,
+  "titulo": "T.21 · Profundización — El servicio público. Modos de gestión de los servicios públicos",
+  "descripcion": "Profundización del tema 21 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t21-v2-20261112-2048.mp3",
+  "bytes": 9297847,
+  "segundos": 1162,
+  "publicadoEn": "2026-11-12T20:48:25+00:00",
+  "origen": "Tema_21_P2_El_servicio_publico_y_sus_modos_de_gestion.m4a",
+  "bytesOrigen": 37403622
  }
 ]
