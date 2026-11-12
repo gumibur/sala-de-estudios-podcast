@@ -484,5 +484,17 @@
   "publicadoEn": "2026-11-12T10:40:27+00:00",
   "origen": "Tema_14_P2_El_acto_administrativo.m4a",
   "bytesOrigen": 49314214
+ },
+ {
+  "temaId": "t15",
+  "vuelta": 2,
+  "titulo": "T.15 · Profundización — La Administración electrónica. Regulación y principios. Sede electrónica",
+  "descripcion": "Profundización del tema 15 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t15-v2-20261112-1041.mp3",
+  "bytes": 8275309,
+  "segundos": 1034,
+  "publicadoEn": "2026-11-12T10:41:10+00:00",
+  "origen": "Tema_15_P2_La_admistracion_electrónica.m4a",
+  "bytesOrigen": 33289667
  }
 ]
