@@ -664,5 +664,17 @@
   "publicadoEn": "2026-11-13T10:13:32+00:00",
   "origen": "Tema_31_P2_Bienes_de_las_entidades_locales.m4a",
   "bytesOrigen": 15208572
+ },
+ {
+  "temaId": "t32",
+  "vuelta": 2,
+  "titulo": "T.32 · Profundización — Formas de actividad de las entidades locales. Procedimiento de licencias",
+  "descripcion": "Profundización del tema 32 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t32-v2-20261113-1014.mp3",
+  "bytes": 12780073,
+  "segundos": 1597,
+  "publicadoEn": "2026-11-13T10:14:08+00:00",
+  "origen": "Tema_32_P2_Actividades_y_licencias.m4a",
+  "bytesOrigen": 19475068
  }
 ]
