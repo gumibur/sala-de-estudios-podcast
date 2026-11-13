@@ -604,5 +604,17 @@
   "publicadoEn": "2026-11-13T08:10:22+00:00",
   "origen": "Tema_25_P2_El_municipio,_término_y_padrón.m4a",
   "bytesOrigen": 13241669
+ },
+ {
+  "temaId": "t27",
+  "vuelta": 2,
+  "titulo": "T.27 · Profundización — Ordenanzas y reglamentos de las entidades locales. Procedimiento de elaboración",
+  "descripcion": "Profundización del tema 27 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t27-v2-20261113-1010.mp3",
+  "bytes": 14119215,
+  "segundos": 1765,
+  "publicadoEn": "2026-11-13T10:10:38+00:00",
+  "origen": "Tema_27_P2_Normativa_local,_ordenanzas_y_reglamentos.m4a",
+  "bytesOrigen": 21513723
  }
 ]
