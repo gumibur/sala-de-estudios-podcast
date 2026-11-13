@@ -6,12 +6,22 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:21:36 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.05 · Profundización — El poder judicial en la Constitución. Su órgano de gobierno</title>
+      <description>Profundización del tema 5 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t05-v2-20261113-1821.mp3" length="7281402" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t05-v2-20261113-1821.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 18:21:20 +0000</pubDate>
+      <itunes:duration>0:15:10</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.04 · Profundización — El poder ejecutivo y su regulación constitucional</title>
       <description>Profundización del tema 4 (Vigo, Administrativo de Urbanismo).</description>
