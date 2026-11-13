@@ -736,5 +736,17 @@
   "publicadoEn": "2026-11-13T10:17:24+00:00",
   "origen": "Tema_40_P2_Igualdad_de_género_y_politicas_públicas.m4a",
   "bytesOrigen": 12723617
+ },
+ {
+  "temaId": "t01",
+  "vuelta": 2,
+  "titulo": "T.01 · Profundización — La Constitución española de 1978",
+  "descripcion": "Profundización del tema 1 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t01-v2-20261113-1813.mp3",
+  "bytes": 10950457,
+  "segundos": 1369,
+  "publicadoEn": "2026-11-13T18:13:35+00:00",
+  "origen": "Tema_1_P2_Constitución_Española_del_78.m4a",
+  "bytesOrigen": 16689182
  }
 ]
