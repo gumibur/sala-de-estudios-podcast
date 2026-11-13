@@ -880,5 +880,17 @@
   "publicadoEn": "2026-11-13T19:28:21+00:00",
   "origen": "Tema_10_P2_Administración_pública_en_el_ordenamiento_español.m4a",
   "bytesOrigen": 21452773
+ },
+ {
+  "temaId": "t12",
+  "vuelta": 2,
+  "titulo": "T.12 · Profundización — La Administración pública de la comunidad autónoma. Estructura y funciones",
+  "descripcion": "Profundización del tema 12 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t12-v2-20261113-1928.mp3",
+  "bytes": 9204433,
+  "segundos": 1150,
+  "publicadoEn": "2026-11-13T19:28:48+00:00",
+  "origen": "Tema_12_P2_Administración_pública_autonómica.m4a",
+  "bytesOrigen": 14030965
  }
 ]
