@@ -592,5 +592,17 @@
   "publicadoEn": "2026-11-13T08:10:07+00:00",
   "origen": "Tema_24_P2_Estructuras_supramunicipales.m4a",
   "bytesOrigen": 10375352
+ },
+ {
+  "temaId": "t25",
+  "vuelta": 2,
+  "titulo": "T.25 · Profundización — El municipio. El término municipal. La población. El empadronamiento",
+  "descripcion": "Profundización del tema 25 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t25-v2-20261113-0810.mp3",
+  "bytes": 8686163,
+  "segundos": 1086,
+  "publicadoEn": "2026-11-13T08:10:22+00:00",
+  "origen": "Tema_25_P2_El_municipio,_término_y_padrón.m4a",
+  "bytesOrigen": 13241669
  }
 ]
