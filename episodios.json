@@ -820,5 +820,17 @@
   "publicadoEn": "2026-11-13T19:11:14+00:00",
   "origen": "Tema_7_P2_Estatuto_de_Autonomía_de_Galicia.m4a",
   "bytesOrigen": 16998609
+ },
+ {
+  "temaId": "t08",
+  "vuelta": 2,
+  "titulo": "T.08 · Profundización — La Unión Europea. Libertades básicas",
+  "descripcion": "",
+  "archivo": "episodios/t08-v2-20261113-1911.mp3",
+  "bytes": 7554330,
+  "segundos": 944,
+  "publicadoEn": "2026-11-13T19:11:53+00:00",
+  "origen": "Tema_8_P2_La_Unión_Europea.m4a",
+  "bytesOrigen": 11518437
  }
 ]
