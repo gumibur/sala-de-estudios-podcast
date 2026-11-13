@@ -748,5 +748,17 @@
   "publicadoEn": "2026-11-13T18:13:35+00:00",
   "origen": "Tema_1_P2_Constitución_Española_del_78.m4a",
   "bytesOrigen": 16689182
+ },
+ {
+  "temaId": "t02",
+  "vuelta": 2,
+  "titulo": "T.02 · Profundización — Derechos fundamentales y libertades públicas. Garantías",
+  "descripcion": "Profundización del tema 2 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t02-v2-20261113-1819.mp3",
+  "bytes": 11791809,
+  "segundos": 1474,
+  "publicadoEn": "2026-11-13T18:19:27+00:00",
+  "origen": "Tema_2_P2_Derechos_fundamentales_y_sus_garantias_constitucional.m4a",
+  "bytesOrigen": 17970135
  }
 ]
