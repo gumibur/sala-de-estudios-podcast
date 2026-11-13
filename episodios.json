@@ -892,5 +892,17 @@
   "publicadoEn": "2026-11-13T19:28:48+00:00",
   "origen": "Tema_12_P2_Administración_pública_autonómica.m4a",
   "bytesOrigen": 14030965
+ },
+ {
+  "temaId": "t26",
+  "vuelta": 2,
+  "titulo": "T.26 · Profundización — Organización municipal. Competencias municipales",
+  "descripcion": "Profundización del tema 26 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t26-v2-20261113-1929.mp3",
+  "bytes": 11431319,
+  "segundos": 1429,
+  "publicadoEn": "2026-11-13T19:29:07+00:00",
+  "origen": "Tema_26_Organización_y_competencias_del_municipio.m4a",
+  "bytesOrigen": 17421446
  }
 ]
