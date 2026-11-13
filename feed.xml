@@ -6,12 +6,22 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 10:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:15:49 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.34 · Profundización — Funcionamiento de los órganos colegiados locales. Convocatoria, votaciones, actas</title>
+      <description>Profundización del tema 34 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t34-v2-20261113-1015.mp3" length="11735176" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t34-v2-20261113-1015.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 10:15:26 +0000</pubDate>
+      <itunes:duration>0:24:27</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.33 · Profundización — El servicio público en la esfera local. Consideración especial de la concesión</title>
       <description>Profundización del tema 33 (Vigo, Administrativo de Urbanismo).</description>
