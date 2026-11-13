@@ -6,12 +6,22 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 10:17:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:17:41 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.40 · Profundización — La igualdad de género. Tutela contra la discriminación. Políticas públicas para la igualdad</title>
+      <description>Profundización del tema 40 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t40-v2-20261113-1017.mp3" length="8345945" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t40-v2-20261113-1017.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 10:17:24 +0000</pubDate>
+      <itunes:duration>0:17:23</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.36 · Profundización — Haciendas locales. Clasificación de los ingresos. Ordenanzas fiscales</title>
       <description>Profundización del tema 36 (Vigo, Administrativo de Urbanismo).</description>
