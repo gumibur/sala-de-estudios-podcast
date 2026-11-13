@@ -6,12 +6,22 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Thu, 12 Nov 2026 20:49:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:10:14 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.24 · Profundización — Estructuras supramunicipales. Mancomunidades. Agrupaciones. La comarca</title>
+      <description>Profundización del tema 24 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t24-v2-20261113-0810.mp3" length="6803466" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t24-v2-20261113-0810.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 08:10:07 +0000</pubDate>
+      <itunes:duration>0:14:10</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.23 · Profundización — La provincia en el régimen local. Organización provincial. Competencias</title>
       <description>Profundización del tema 23 (Vigo, Administrativo de Urbanismo).</description>
