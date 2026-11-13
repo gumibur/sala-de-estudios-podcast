@@ -6,12 +6,22 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 19:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:13:13 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.11 · Profundización — La Xunta de Galicia y su presidente. El Parlamento de Galicia</title>
+      <description>T.11 · Profundización — La Xunta de Galicia y su presidente. El Parlamento de Galicia</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t11-v2-20261113-1913.mp3" length="6233579" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t11-v2-20261113-1913.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 19:13:00 +0000</pubDate>
+      <itunes:duration>0:12:59</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.09 · Profundización — Instituciones de la Unión Europea</title>
       <description>T.09 · Profundización — Instituciones de la Unión Europea</description>
