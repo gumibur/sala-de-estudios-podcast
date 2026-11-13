@@ -676,5 +676,17 @@
   "publicadoEn": "2026-11-13T10:14:08+00:00",
   "origen": "Tema_32_P2_Actividades_y_licencias.m4a",
   "bytesOrigen": 19475068
+ },
+ {
+  "temaId": "t33",
+  "vuelta": 2,
+  "titulo": "T.33 · Profundización — El servicio público en la esfera local. Consideración especial de la concesión",
+  "descripcion": "Profundización del tema 33 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t33-v2-20261113-1014.mp3",
+  "bytes": 12626265,
+  "segundos": 1578,
+  "publicadoEn": "2026-11-13T10:14:46+00:00",
+  "origen": "Tema_33_P2_El_servicio_público_en_la_esfera_local.m4a",
+  "bytesOrigen": 19240866
  }
 ]
