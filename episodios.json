@@ -700,5 +700,17 @@
   "publicadoEn": "2026-11-13T10:15:26+00:00",
   "origen": "Tema_34_P2_Órganos_colegiados_locales.m4a",
   "bytesOrigen": 17883972
+ },
+ {
+  "temaId": "t35",
+  "vuelta": 2,
+  "titulo": "T.35 · Profundización — Los presupuestos locales. Contabilidad y cuentas",
+  "descripcion": "Profundización del tema 35 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t35-v2-20261113-1016.mp3",
+  "bytes": 13330944,
+  "segundos": 1666,
+  "publicadoEn": "2026-11-13T10:16:01+00:00",
+  "origen": "Tema_35_P2_Presupuestos_y_contabilidad_local.m4a",
+  "bytesOrigen": 20313549
  }
 ]
