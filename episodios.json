@@ -652,5 +652,17 @@
   "publicadoEn": "2026-11-13T10:12:50+00:00",
   "origen": "Tema_30_P2_Régimen_disciplinario_de_empleados.m4a",
   "bytesOrigen": 17896059
+ },
+ {
+  "temaId": "t31",
+  "vuelta": 2,
+  "titulo": "T.31 · Profundización — Los bienes de las entidades locales. Régimen de utilización de los de dominio público",
+  "descripcion": "Profundización del tema 31 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t31-v2-20261113-1013.mp3",
+  "bytes": 9978075,
+  "segundos": 1247,
+  "publicadoEn": "2026-11-13T10:13:32+00:00",
+  "origen": "Tema_31_P2_Bienes_de_las_entidades_locales.m4a",
+  "bytesOrigen": 15208572
  }
 ]
