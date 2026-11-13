@@ -772,5 +772,17 @@
   "publicadoEn": "2026-11-13T18:20:10+00:00",
   "origen": "Tema_3_P2_Poderes_del_estado_y_Corona.m4a",
   "bytesOrigen": 12333501
+ },
+ {
+  "temaId": "t04",
+  "vuelta": 2,
+  "titulo": "T.04 · Profundización — El poder ejecutivo y su regulación constitucional",
+  "descripcion": "Profundización del tema 4 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t04-v2-20261113-1820.mp3",
+  "bytes": 11819603,
+  "segundos": 1477,
+  "publicadoEn": "2026-11-13T18:20:40+00:00",
+  "origen": "Tema_4_P2_El_Poder_ejecutivo_en_la_Constitución.m4a",
+  "bytesOrigen": 18012559
  }
 ]

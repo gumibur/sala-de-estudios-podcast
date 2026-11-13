@@ -6,12 +6,22 @@
     <atom:link href="https://gumibur.github.io/sala-de-estudios-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Audio-resúmenes de repaso de los temas de las oposiciones, generados con NotebookLM.</description>
     <language>es-es</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:21:08 +0000</lastBuildDate>
     <itunes:author>Sala de Estudios</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Education"/>
     <itunes:block>Yes</itunes:block>
     <itunes:image href="https://gumibur.github.io/sala-de-estudios-podcast/portada.png"/>
+    <item>
+      <title>T.04 · Profundización — El poder ejecutivo y su regulación constitucional</title>
+      <description>Profundización del tema 4 (Vigo, Administrativo de Urbanismo).</description>
+      <enclosure url="https://gumibur.github.io/sala-de-estudios-podcast/episodios/t04-v2-20261113-1820.mp3" length="11819603" type="audio/mpeg"/>
+      <guid isPermaLink="false">episodios/t04-v2-20261113-1820.mp3</guid>
+      <pubDate>Fri, 13 Nov 2026 18:20:40 +0000</pubDate>
+      <itunes:duration>0:24:37</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>T.03 · Profundización — La Corona. El poder legislativo. El poder judicial</title>
       <description>Profundización del tema 3 (Vigo, Administrativo de Urbanismo).</description>
