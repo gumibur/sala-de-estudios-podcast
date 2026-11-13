@@ -868,5 +868,17 @@
   "publicadoEn": "2026-11-13T19:13:28+00:00",
   "origen": "Tema_13_P2_Principios_de_la_administración.m4a",
   "bytesOrigen": 12597087
+ },
+ {
+  "temaId": "t10",
+  "vuelta": 2,
+  "titulo": "T.10 · Profundización — La Administración pública en el ordenamiento español. Clases de Administraciones públicas",
+  "descripcion": "Profundización del tema 10 (Vigo, Administrativo de Urbanismo).",
+  "archivo": "episodios/t10-v2-20261113-1928.mp3",
+  "bytes": 14079091,
+  "segundos": 1760,
+  "publicadoEn": "2026-11-13T19:28:21+00:00",
+  "origen": "Tema_10_P2_Administración_pública_en_el_ordenamiento_español.m4a",
+  "bytesOrigen": 21452773
  }
 ]
